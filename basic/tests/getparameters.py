@@ -1,4 +1,3 @@
-
 from dronekit import connect
 
 """
